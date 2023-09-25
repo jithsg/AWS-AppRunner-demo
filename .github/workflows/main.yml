@@ -1,4 +1,4 @@
-name: Build with Github Actions
+name: Build with Github Actions and Deploy to Amazon ECR
 on: [push]
 jobs:
   build:
